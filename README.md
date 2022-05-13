@@ -1,7 +1,7 @@
-# hagenlarsenstarter
+# React Starter App
 
 ## Description
-A starter app with Postgres, NestJS, and React
+A starter app with Postgres, NestJS, and React.
 
 ## Cloning the project
 IMPORTANT Windows users should setup WSL first before cloning. See [WSL_SETUP.md](/WSL_SETUP.md)
